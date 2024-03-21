@@ -1,0 +1,5 @@
+package com.example.com
+ import school
+ @entity{
+    @table(name)
+ }
